@@ -1,2 +1,6 @@
 Block Sparsity and Weight Initialization in Neural Network Pruning https://dspace.mit.edu/handle/1721.1/130708
 https://www.msra.cn/zh-cn/news/features/weight-sparsity-feature-map-sparsity
+Accelerating Matrix Multiplication with Block Sparse Format and NVIDIA Tensor Cores https://developer.nvidia.com/blog/accelerating-matrix-multiplication-with-block-sparse-format-and-nvidia-tensor-cores/
+Block-wise weighted sparse representation-based classification 
+SBNet: Sparse Blocks Network for Fast Inference https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_SBNet_Sparse_Blocks_CVPR_2018_paper.pdf
+Parallel Blockwise Knowledge Distillation for Deep Neural Network Compression https://arxiv.org/pdf/2012.03096.pdf
