@@ -1,4 +1,4 @@
-# block-wise-pruning
+# Block-Wise-Pruning
 |Title |Organization|Year|Publisher|
 | ----------- | ----------- | ----------- | ----------- |
 |[Block Sparsity and Weight Initialization in Neural Network Pruning](https://dspace.mit.edu/handle/1721.1/130708)|MIT|2021|MIT|
