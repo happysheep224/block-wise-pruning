@@ -8,3 +8,5 @@
 |[Parallel Blockwise Knowledge Distillation for Deep Neural Network Compression](https://arxiv.org/pdf/2012.03096.pdf)|Texas State University |2021|IEEE Transactions on Parallel and Distributed Systems|
 |[SBNet: Sparse Blocks Network for Fast Inference](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_SBNet_Sparse_Blocks_CVPR_2018_paper.pdf)|Uber|2018|CVPR|
 |[Dynamic Block Sparse Reparameterization of Convolutional Neural Networks](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Vooturi_Dynamic_Block_Sparse_Reparameterization_of_Convolutional_Neural_Networks_ICCVW_2019_paper.pdf)|Center for Security Theory and Algorithmic Research|2019|ICCV|
+|[Accelerating Matrix Multiplication with Block Sparse Format and NVIDIA Tensor Cores](https://developer.nvidia.com/blog/accelerating-matrix-multiplication-with-block-sparse-format-and-nvidia-tensor-cores/)|Nivida|2021|Nivadia|
+|[Block-wise weighted sparse representation-based classification](https://link.springer.com/article/10.1007/s11760-020-01700-9)| |2020|Signal, Image and Video Processing| 
