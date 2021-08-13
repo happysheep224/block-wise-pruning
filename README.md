@@ -12,4 +12,10 @@
 |9|[Block-wise weighted sparse representation-based classification](https://link.springer.com/article/10.1007/s11760-020-01700-9)| |2020|Signal, Image and Video Processing| 
 |10|[Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference](https://lirias.kuleuven.be/bitstream/123456789/670120/2/4583_final_OA.pdf)|KU Leuven|2020|CVPR
 |11|[Spatially Adaptive Inference with Stochastic Feature Sampling and Interpolation](https://arxiv.org/pdf/2003.08866.pdf)|Tsinghua University|2020|ECCV|
-|12|[Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838.pdf)|?Twitter, Cambridge, MA, USA|2016|ICML|
+# Ref
+|1|[Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838.pdf)|Twitter, Cambridge, MA, USA|2016|ICML|
+|2|[Conditional computation in neural networks for faster models]||2015||
+|3|[Spatially adaptive computation time for residual networks]||2017|cvpr|
+|4|Deep networks with stochastic depth||2016|ECCV|
+|5|Fast algorithms for convolutional neural networks||2016|CVPR|
+|6|categorical reparameterization with gumbel-softmax||2017|ICLR|
