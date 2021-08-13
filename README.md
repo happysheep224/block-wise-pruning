@@ -13,6 +13,8 @@
 |10|[Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference](https://lirias.kuleuven.be/bitstream/123456789/670120/2/4583_final_OA.pdf)|KU Leuven|2020|CVPR
 |11|[Spatially Adaptive Inference with Stochastic Feature Sampling and Interpolation](https://arxiv.org/pdf/2003.08866.pdf)|Tsinghua University|2020|ECCV|
 # Ref
+|Num|Title |Organization|Year|Publisher|
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 |1|[Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838.pdf)|Twitter, Cambridge, MA, USA|2016|ICML|
 |2|[Conditional computation in neural networks for faster models]||2015||
 |3|[Spatially adaptive computation time for residual networks]||2017|cvpr|
