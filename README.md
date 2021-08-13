@@ -16,7 +16,7 @@
 |Num|Title |Organization|Year|Publisher|
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 |1|[Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838.pdf)|Twitter, Cambridge, MA, USA|2016|ICML|
-|2|[Conditional computation in neural networks for faster models]||2015||
+|2|[Conditional computation in neural networks for faster models]||2015|arXiv|
 |3|[Spatially adaptive computation time for residual networks]||2017|cvpr|
 |4|Deep networks with stochastic depth||2016|ECCV|
 |5|Fast algorithms for convolutional neural networks||2016|CVPR|
