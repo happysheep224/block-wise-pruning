@@ -21,9 +21,9 @@
 |4|[Deep networks with stochastic depth](https://arxiv.org/pdf/1603.09382.pdf)| Cornell University|2016|ECCV|
 |5|[Fast algorithms for convolutional neural networks](https://arxiv.org/pdf/1509.09308.pdf)|Nervana Systems|2016|CVPR|
 |6|[categorical reparameterization with gumbel-softmax](https://arxiv.org/pdf/1611.01144.pdf)|Google Brain|2017|ICLR|
-|7|[Estimating or propagating gradients through stochastic neurons for conditional computation](https://arxiv.org/pdf/1308.3432.pdf)|Facebook AI Research|2013|arXiv|
+|7|[Estimating or propagating gradients through stochastic neurons for conditional computation](https://arxiv.org/pdf/1308.3432.pdf)||2013|arXiv|
 |8|[Spatially-sparse convolutional neural networks](https://arxiv.org/pdf/1409.6070.pdf)|University of Warwick|2014|arXiv|
-|9|[Sub-manifold sparse convolutional networks](https://arxiv.org/pdf/1706.01307.pdf)||2017|arXiv|
+|9|[Sub-manifold sparse convolutional networks](https://arxiv.org/pdf/1706.01307.pdf)|Facebook AI Research|2017|arXiv|
 |10|[Not all pixels are equal: Difficulty-aware semantic segmentation bia deep layer cascade](https://arxiv.org/pdf/1704.01344.pdf)||||
 |11|[3D Semantic Segmentation with Submanifold Sparse Convolutional Networks](https://arxiv.org/pdf/1711.10275.pdf)||||
 |12|[Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade](https://arxiv.org/pdf/1704.01344.pdf)|
