@@ -25,5 +25,6 @@
 |8|[Spatially-sparse convolutional neural networks](https://arxiv.org/pdf/1409.6070.pdf)|University of Warwick|2014|arXiv|
 |9|[Sub-manifold sparse convolutional networks](https://arxiv.org/pdf/1706.01307.pdf)|Facebook AI Research|2017|arXiv|
 |10|[Not all pixels are equal: Difficulty-aware semantic segmentation bia deep layer cascade](https://arxiv.org/pdf/1704.01344.pdf)|The Chinese University of Hong Kong|2017|arXiv|
-|11|[3D Semantic Segmentation with Submanifold Sparse Convolutional Networks](https://arxiv.org/pdf/1711.10275.pdf)|Facebook AI Research|2017|arXiv|
 
+#Segmentation
+|1|[3D Semantic Segmentation with Submanifold Sparse Convolutional Networks](https://arxiv.org/pdf/1711.10275.pdf)|Facebook AI Research|2017|arXiv|
