@@ -20,7 +20,7 @@
 |3|[Spatially adaptive computation time for residual networks](https://arxiv.org/pdf/1612.02297.pdf)|2Google Inc|2017|cvpr|
 |4|[Deep networks with stochastic depth](https://arxiv.org/pdf/1603.09382.pdf)| Cornell University|2016|ECCV|
 |5|[Fast algorithms for convolutional neural networks](https://arxiv.org/pdf/1509.09308.pdf)|Nervana Systems|2016|CVPR|
-|6|[categorical reparameterization with gumbel-softmax](https://arxiv.org/pdf/1611.01144.pdf)||2017|ICLR|
+|6|[categorical reparameterization with gumbel-softmax](https://arxiv.org/pdf/1611.01144.pdf)|Google Brain|2017|ICLR|
 |7|[Estimating or propagating gradients through stochastic neurons for conditional computation]()||2013|arXiv|
 |8|[Spatially-sparse convolutional neural networks](https://arxiv.org/pdf/1409.6070.pdf)|University of Warwick|2014|arXiv|
 |9|[Sub-manifold sparse convolutional networks](https://arxiv.org/pdf/1706.01307.pdf)||2017|arXiv|
