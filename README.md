@@ -16,8 +16,13 @@
 |Num|Title |Organization|Year|Publisher|
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 |1|[Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838.pdf)|Twitter, Cambridge, MA, USA|2016|ICML|
-|2|[Conditional computation in neural networks for faster models]||2015|arXiv|
-|3|[Spatially adaptive computation time for residual networks]||2017|cvpr|
-|4|Deep networks with stochastic depth||2016|ECCV|
-|5|Fast algorithms for convolutional neural networks||2016|CVPR|
-|6|categorical reparameterization with gumbel-softmax||2017|ICLR|
+|2|[Conditional computation in neural networks for faster models](https://arxiv.org/pdf/1704.01344.pdf)|The Chinese University of Hong Kong|2015|arXiv|
+|3|[Spatially adaptive computation time for residual networks](https://arxiv.org/pdf/1612.02297.pdf)|2Google Inc|2017|cvpr|
+|4|[Deep networks with stochastic depth](https://arxiv.org/pdf/1603.09382.pdf)| Cornell University|2016|ECCV|
+|5|[Fast algorithms for convolutional neural networks](https://arxiv.org/pdf/1509.09308.pdf)|Nervana Systems|2016|CVPR|
+|6|[categorical reparameterization with gumbel-softmax](https://arxiv.org/pdf/1611.01144.pdf)||2017|ICLR|
+|7|[Estimating or propagating gradients through stochastic neurons for conditional computation]()||2013|arXiv|
+|8|[Spatially-sparse convolutional neural networks()]||2014|arXiv|
+|9|[Sub-manifold sparse convolutional networks]()||2017|arXiv|
+|10|[Not all pixels are equal: Difficulty-aware semantic segmentation bia deep layer cascade]
+
